@@ -88,4 +88,18 @@ Access the production interactive guide:
 
 ***
 
+## Governance and Sovereignty
+
+* **Sovereign Unit**: [TAVARDT United Kingdom](https://ag.tavardt.com/uk/) (`TAVARDT-UK`)
+* **Core Standards**: [00-core Governance](https://github.com/TAVARDT-UK/00-core)
+* **Diagnostic Portal**: [TAVARDT UK Diagnostic Suite](https://tools.tavardt.com/uk/)
+* **Enterprise Security**: [TAVARDT UK Cybersecurity](https://ag.tavardt.com/uk/cybersecurity/)
+
+***
+
+### License
+Released under the MIT License. See [LICENSE](LICENSE) for full details.
+
+***
+
 © 2026 TAVARDT. All rights reserved.
